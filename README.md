@@ -8,6 +8,8 @@ Assignments: Completed coursework and problem sets from AI-801.
 Projects: Full AI projects developed as part of the class, including implementation details and results.
 Research: Research papers, articles, and experimental results related to AI topics discussed in the course.
 Resources: Useful references, datasets, and tools for AI development.
+
+
 Projects
 AI-Powered Tic-Tac-Toe: Game Strategies!
 
